@@ -30,7 +30,6 @@
 # Inter-chain residue-level contacts
 ![Residue-level contacts](https://github.com/VKleinSousa/ProtCNet/blob/main/5IV5_residuelevelnet.png)
 
-## 🚀 Getting Started
 
 ## 🚀 Getting Started
 
