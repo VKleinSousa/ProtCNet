@@ -83,6 +83,8 @@ Developed by Victor Klein-Sousa (@vkleinsousa) under the MIT License.
 
 If you use this tool for your research, please cite the GitHub repository.
 
+[![DOI](https://zenodo.org/badge/984670633.svg)](https://doi.org/10.5281/zenodo.15440764)
+
 GitHub: [https://github.com/VKleinSousa/ProtCNet](https://github.com/VKleinSousa/ProtCNet)
 
 ---
