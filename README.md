@@ -20,7 +20,7 @@
   * Residue-level networks (**interactive HTML**)
   * Self-loop and detailed edge diagrams (**high-res TIFF**)
   * Heatmaps of contact frequency
-* Exports **contact tables** for downstream use in **ChimeraX**, analysis, or annotation
+* Exports **contact tables** for downstream use.
 
 ---
 ## 🖼️ Example Visualizations
