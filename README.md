@@ -35,6 +35,12 @@
 
 ### Option 1: Run via Google Colab (Recommended)
 
+Version 0.2:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_-mGMYDDJY6na9hQP21KO_4Bwhi8tXEO?usp=sharing)
+
+Version 0.1
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NCpjE7R8TzlSWjKSaQOj-lR_OvJuBUEc?usp=sharing)
 
 
